@@ -1,0 +1,15 @@
+id                     Identificador del inmueble
+neighbourhood group    Localidad o distrito en el que se encuentra el inmueble
+neighbourhood          Barrio en el que se encuentra el inmueble
+lat, long              GeolocalizaciÃ³n del inmueble
+country                Pais en el que se encuentra el inmueble
+instant bookable       Indicador de si es posible realizar reserva directamente en la plataforma
+cancellation_policy    PolÃ­tica de cancelaciÃ³n de la reserva
+room type              Tipo de inmueble
+construction year      AÃ±o de construcciÃ³n del inmueble
+price                  Precio por noche del inmueble
+service fee            Costo del servicio el cual debe ser cancelado al dejar el inmueble
+minimum nights         Cantidad mÃ­nima de noches que el inmueble puede ser reservado
+availability 365       Disponibilidad total en dÃ­as durante el Ãºltimo aÃ±o
+number of reviews      Total de comentarios del inmueble
+review rate number     CalificaciÃ³n promedio dada al inmueble
